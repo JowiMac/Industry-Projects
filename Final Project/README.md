@@ -10,7 +10,9 @@ compare two objects together.
 ## How to Run
 "Probability.java" and "ProbabilityTest.java" are needed to run the latest version.
 "probProj" is an old project of an earlier version of the Probability calculator.
+These images show the code running
 [After_Calculate](After_Calculate.png)
+[BarChart](BarChart.png)
 
 ## Code Example
 '''
